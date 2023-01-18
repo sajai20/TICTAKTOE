@@ -1,6 +1,6 @@
 #TICTAKTOE
 
-[]()
+[https://tictaktoesajai.netlify.app/](https://tictaktoesajai.netlify.app/)
 
 ###project details
 
